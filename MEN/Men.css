@@ -1,0 +1,42 @@
+.gridlayout
+{
+    background-color:white;
+}
+.griditem
+{
+    background-color: white;
+}
+.menu
+{
+    background-color: black;
+    color:white;
+    font-family: cursive;
+    height: 80px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.menuu
+{
+    font-family: cursive;
+    background-color: white;
+}
+.manu
+{
+    font-family: cursive;
+    background-color: black;
+    color: white;
+    border:2px solid black ;
+}
+.hello
+{
+    background-color:lightgray;
+}
+.hi
+{
+    background-color:antiquewhite;
+}
+.welcome
+{
+    padding-left: 826px;
+    background-color: antiquewhite;
+}
