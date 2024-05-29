@@ -1,0 +1,27 @@
+div
+{
+    background-image: url(lo.png);background-repeat: no-repeat;background-size: cover;
+    width:489px;
+    height:340px;
+    align-content:center;
+}
+.menu
+{
+    font-family: cursive;
+    background-color: black;
+    width:1300px;
+    height:80px;
+    color: white;
+    padding-bottom:10px ;
+    padding-top: 10px;
+}
+.manu
+{
+    font-family: cursive;
+    background-color: black;
+    color: white;
+    width:1300px;
+    height:150px;
+    padding-bottom:10px ;
+    padding-top: 10px;
+}
