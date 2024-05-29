@@ -1,0 +1,27 @@
+div.d
+{
+    width:835px;
+    height:470px;
+    align-content:center;
+}
+.menu
+{
+    font-family: cursive;
+    background-color: black;
+    width:1300px;
+    height:80px;
+    color: white;
+    padding-bottom:5px ;
+    padding-top: 5px;
+}
+.manu
+{
+    font-family: cursive;
+    background-color: black;
+    color: white;
+    width:1300px;
+    height:170px;
+    padding-bottom:5px ;
+    padding-top: 5px;
+}
+
